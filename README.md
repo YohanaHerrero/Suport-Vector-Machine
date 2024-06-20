@@ -19,6 +19,6 @@ Build a Support Vector Machine model with Scikit-Learn
 
 Build a Support Vector Machine model with Snap ML
 
-Evaluate the Scikit-Learn and Snap ML Support Vector Machine Models (running inference and getting the confidence scores for the test samples. I then compute the ROC-AUC score from the predictions. I also evaluate the models accuracy by using the hinge loss function and a confussion matrix)
+Evaluate the Scikit-Learn and Snap ML Support Vector Machine Models (running inference and getting the confidence scores for the test samples. I then compute the ROC-AUC score from the predictions. I also evaluate the models accuracy by using the hinge loss function and a confussion matrix, for which I also create a function to plot the matrix)
 
 
